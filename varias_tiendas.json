@@ -1,0 +1,92 @@
+[
+	{
+		"id_tienda" : 1,
+		"nombre_tienda" : "Primera Tienda",
+		"direccion_tienda" : "Avenida Siempre Viva 1234",
+		"categoria" : "Entretenimiento",
+		"imagen_portada_tienda" : "null",
+		"contacto" : "098741258",
+		"correo_electronico" : "primera@gmail.com"
+	},
+	{
+		"id_tienda" : 41,
+		"nombre_tienda" : "Lola",
+		"direccion_tienda" : "Avenida Don Francisco",
+		"categoria" : "Salud",
+		"imagen_portada_tienda" : "null",
+		"contacto" : "098000008",
+		"correo_electronico" : "lolalola@gmail.com"
+	},
+	{
+		"id_tienda" : 21,
+		"nombre_tienda" : "Cero",
+		"direccion_tienda" : "Pascual Diaz 668",
+		"categoria" : "Bazar",
+		"imagen_portada_tienda" : "null",
+		"contacto" : "091025874",
+		"correo_electronico" : "ceritocerito@gmail.com"
+	},
+	{
+		"id_tienda" : 08,
+		"nombre_tienda" : "Zapateria Zapata",
+		"direccion_tienda" : "Ordoñez fafa 1234",
+		"categoria" : "Entretenimiento",
+		"imagen_portada_tienda" : "null",
+		"contacto" : "097856958",
+		"correo_electronico" : "fafarito@gmail.com"
+	},
+	{
+		"id_tienda" : 52,
+		"nombre_tienda" : "Papelito",
+		"direccion_tienda" : "Avenida Cercana 7896",
+		"categoria" : "Papeleria",
+		"imagen_portada_tienda" : "null",
+		"contacto" : "098748558",
+		"correo_electronico" : "papelito_papel@gmail.com"
+	},
+	{
+		"id_tienda" : 27,
+		"nombre_tienda" : "Alguna otra tienda",
+		"direccion_tienda" : "Horacio Juarez 1111",
+		"categoria" : "Educación",
+		"imagen_portada_tienda" : "null",
+		"contacto" : "098001208",
+		"correo_electronico" : "educa@gmail.com"
+	},
+	{
+		"id_tienda" : 23,
+		"nombre_tienda" : "Indumentaria femenina",
+		"direccion_tienda" : "Walter Acevedo 0003",
+		"categoria" : "Vestimenta",
+		"imagen_portada_tienda" : "null",
+		"contacto" : "099941000",
+		"correo_electronico" : "indumentaria@gmail.com"
+	},
+	{
+		"id_tienda" : 91,
+		"nombre_tienda" : "farmacia Holanda",
+		"direccion_tienda" : "Guatemala 2582",
+		"categoria" : "Salud",
+		"imagen_portada_tienda" : "null",
+		"contacto" : "098999998",
+		"correo_electronico" : "farma_holanda@gmail.com"
+	},
+	{
+		"id_tienda" : 90,
+		"nombre_tienda" : "Merienda aqui",
+		"direccion_tienda" : "Calle Souvenier 1111",
+		"categoria" : "Comestibles",
+		"imagen_portada_tienda" : "null",
+		"contacto" : "091234568",
+		"correo_electronico" : "merienda_aqui@gmail.com"
+	},
+	{
+		"id_tienda" : 89,
+		"nombre_tienda" : "Videojuegos Loqui",
+		"direccion_tienda" : "Avenida algun lugar 0000",
+		"categoria" : "Entretenimiento",
+		"imagen_portada_tienda" : "null",
+		"contacto" : "098889999",
+		"correo_electronico" : "loqui_videojuegos@gmail.com"
+	}
+]
