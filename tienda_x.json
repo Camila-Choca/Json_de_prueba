@@ -4,7 +4,7 @@
 		"nombre_tienda" : "Primera Tienda",
 		"direccion_tienda" : "Avenida Siempre Viva 1234",
 		"categoria" : "Entretenimiento",
-		"imagen_portada_tienda" : "/static/img_ejemplo/techo.jpg",
+		"imagen_portada_tienda" : "static/img_ejemplo/termo.jpg",
 		"contacto" : "098741258",
 		"correo_electronico" : "primera@gmail.com"
 	}
