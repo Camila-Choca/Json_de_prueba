@@ -3,7 +3,7 @@
 	{ 
 		"nombre_producto" : "talcosa",
 		"precio_producto" : 2544,
-		"imagen_producto" : "C:\Users\Camil\Desktop\25-3\pruebas\static/img_ejemplo/compu.png"
+		"imagen_producto" : "C:/Users/Camil/Desktop/25-3/pruebas/static/img_ejemplo/compu.png"
 	},
 	{ 
 		"nombre_producto" : "Termo que no enfria",
