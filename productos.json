@@ -3,27 +3,27 @@
 	{ 
 		"nombre_producto" : "talcosa",
 		"precio_producto" : 2544,
-		"imagen_producto" : "/static/img_ejemplo/compu.png"
+		"imagen_producto" : "static/img_ejemplo/compu.png"
 	},
 	{ 
 		"nombre_producto" : "Termo que no enfria",
 		"precio_producto" : 100000,
-		"imagen_producto" : "/static/img_ejemplo/termo.jpg"
+		"imagen_producto" : "static/img_ejemplo/termo.jpg"
 	},
 	{ 
 		"nombre_producto" : "Mate sin yerba",
 		"precio_producto" : 774,
-		"imagen_producto" : "/static/img_ejemplo/mate.jpg"
+		"imagen_producto" : "static/img_ejemplo/mate.jpg"
 	},
 	{ 
 		"nombre_producto" : "Mesa de madera",
 		"precio_producto" : 29924,
-		"imagen_producto" : "/static/img_ejemplo/termo.jpg"
+		"imagen_producto" : "static/img_ejemplo/termo.jpg"
 	},
 	{ 
 		"nombre_producto" : "Computadora compu",
 		"precio_producto" : 78994,
-		"imagen_producto" : "/static/img_ejemplo/compu.png"
+		"imagen_producto" : "static/img_ejemplo/compu.png"
 	}
 
 ]
